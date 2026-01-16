@@ -1,6 +1,6 @@
 # Tareas para Terminal 2 - Frontend
 
-## Estado: ESPERANDO INSTRUCCIONES
+## Estado: TAREAS ASIGNADAS - LISTO PARA TRABAJAR
 
 ## Responsabilidad
 Desarrollo de interfaces de usuario, componentes visuales e integración con APIs.
@@ -10,10 +10,12 @@ Desarrollo de interfaces de usuario, componentes visuales e integración con API
 
 ## Tareas Pendientes
 
-### Ejemplo de formato:
-- [ ] Crear estructura inicial del proyecto frontend
-- [ ] Configurar React/Vue/Angular
-- [ ] Implementar componente de ejemplo
+- [ ] Crear estructura HTML básica en `terminal2/index.html`
+- [ ] Crear archivo CSS en `terminal2/styles.css` con estilos básicos
+- [ ] Crear archivo JavaScript en `terminal2/app.js`
+- [ ] Implementar función para llamar al endpoint GET /api/hello del Terminal 1
+- [ ] Mostrar la respuesta del API en la página HTML
+- [ ] Añadir botón "Check Status" que llame a GET /api/status
 
 ## Tareas En Progreso
 _Ninguna_

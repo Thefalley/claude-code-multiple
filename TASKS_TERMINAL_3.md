@@ -1,6 +1,6 @@
 # Tareas para Terminal 3 - Testing
 
-## Estado: ESPERANDO INSTRUCCIONES
+## Estado: TAREAS ASIGNADAS - LISTO PARA TRABAJAR
 
 ## Responsabilidad
 Desarrollo de tests unitarios, de integración y end-to-end.
@@ -10,10 +10,12 @@ Desarrollo de tests unitarios, de integración y end-to-end.
 
 ## Tareas Pendientes
 
-### Ejemplo de formato:
-- [ ] Configurar framework de testing
-- [ ] Crear tests para endpoints de Terminal 1
-- [ ] Crear tests para componentes de Terminal 2
+- [ ] Crear estructura de proyecto de tests con package.json
+- [ ] Instalar Jest y Supertest para testing
+- [ ] Crear test para endpoint GET /api/hello en `terminal3/api.test.js`
+- [ ] Crear test para endpoint GET /api/status en `terminal3/api.test.js`
+- [ ] Crear archivo de configuración Jest en `terminal3/jest.config.js`
+- [ ] Ejecutar los tests y generar reporte de cobertura
 
 ## Tareas En Progreso
 _Ninguna_

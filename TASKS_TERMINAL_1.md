@@ -1,6 +1,6 @@
 # Tareas para Terminal 1 - Backend/API
 
-## Estado: ESPERANDO INSTRUCCIONES
+## Estado: TAREAS ASIGNADAS - LISTO PARA TRABAJAR
 
 ## Responsabilidad
 Desarrollo de backend, APIs REST, lógica de negocio e integración con bases de datos.
@@ -10,10 +10,12 @@ Desarrollo de backend, APIs REST, lógica de negocio e integración con bases de
 
 ## Tareas Pendientes
 
-### Ejemplo de formato:
-- [ ] Crear estructura inicial del proyecto backend
-- [ ] Configurar servidor Express/FastAPI/etc
-- [ ] Implementar endpoint de ejemplo
+- [ ] Crear estructura inicial del proyecto Node.js (package.json)
+- [ ] Instalar Express.js y dependencias básicas
+- [ ] Crear servidor Express básico en `terminal1/server.js`
+- [ ] Implementar endpoint GET /api/hello que retorne {"message": "Hello from Terminal 1"}
+- [ ] Implementar endpoint GET /api/status que retorne {"status": "ok", "terminal": "1"}
+- [ ] Crear archivo de configuración `terminal1/config.js` con puerto y variables de entorno
 
 ## Tareas En Progreso
 _Ninguna_

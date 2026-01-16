@@ -1,6 +1,6 @@
 # Tareas para Terminal 4 - Documentación/DevOps
 
-## Estado: ESPERANDO INSTRUCCIONES
+## Estado: TAREAS ASIGNADAS - LISTO PARA TRABAJAR
 
 ## Responsabilidad
 Documentación técnica, CI/CD pipelines y scripts de automatización.
@@ -10,10 +10,12 @@ Documentación técnica, CI/CD pipelines y scripts de automatización.
 
 ## Tareas Pendientes
 
-### Ejemplo de formato:
-- [ ] Crear documentación inicial del proyecto
-- [ ] Configurar CI/CD básico
-- [ ] Crear scripts de despliegue
+- [ ] Crear documentación de API en `terminal4/API_DOCUMENTATION.md`
+- [ ] Documentar endpoint GET /api/hello con ejemplos de request/response
+- [ ] Documentar endpoint GET /api/status con ejemplos de request/response
+- [ ] Crear guía de instalación en `terminal4/INSTALLATION.md`
+- [ ] Crear script de inicio rápido en `terminal4/start.sh`
+- [ ] Crear archivo GitHub Actions workflow en `terminal4/ci-workflow.yml`
 
 ## Tareas En Progreso
 _Ninguna_
